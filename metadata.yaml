@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39447
     wikipedia: https://en.wikipedia.org/wiki/Clark_Ashton_Smith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38410#The-Star-Treader-and-other-poems
 gutenberg_issued: '2011-12-25'
 gutenberg_type: Text
 identifiers:
